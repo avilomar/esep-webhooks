@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "H73o/QLRTJgJAEkbvCvpuvWG55iSPfX5pY9Dig8x3MerOl2Oxqar3pZh5jFNb2NN5j27MJK7hjuTDGGaxOTIQA==",
+  "success": true,
+  "projectFilePath": "/Users/annabella/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/annabella/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/annabella/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/annabella/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.24/microsoft.netcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
+    "/Users/annabella/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.24/microsoft.aspnetcore.app.runtime.linux-x64.6.0.24.nupkg.sha512",
+    "/Users/annabella/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.24/microsoft.netcore.app.crossgen2.osx-arm64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
